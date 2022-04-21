@@ -1,0 +1,16 @@
+h4{
+    font-size: 25px !important;
+    color: indigo;
+}
+.btn-info:hower{
+    background-color: rgb(255, 0, 51);
+}
+canvas{
+    animation-name: ha;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes ha{
+    from{box-shadow: 1px 1px 38px purple};
+    to {box-shadow: 1px 1px 38px yellow};
+}
